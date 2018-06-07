@@ -1,2 +1,1 @@
-# open-quest-ff1
-Imagine the unique game where....
+Please, leave this project and forget it
